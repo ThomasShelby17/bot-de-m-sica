@@ -19,4 +19,4 @@ Heroku: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.
 
 
 
-Made with :heart: and JavaScript!
+Feito com :heart: e JavaScript!
