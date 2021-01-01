@@ -3,7 +3,7 @@
 <div align="center"><img src="./assets/banner.gif"></div>
 
 ## 📝 Tutorial
-Tutorial has been uploaded on YouTube <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Watch it by clicking [here](https://youtu.be/DQXuTaYa31I)
+O tutorial foi carregado no YouTube <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Watch it by clicking [here](https://youtu.be/DQXuTaYa31I)
 
 ## 📸 Screenshots
 
