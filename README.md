@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./assets/Music.gif" width="30px"> Avançado Discord Music Bot <img src="./assets/Music.gif" width="30px"></h1>
+<h1 align="center"><img src="./assets/721237676761808976.gif" width="30px"> Avançado Discord Music Bot <img src="./assets/721237676761808976.gif" width="30px"></h1>
 <p align="center">!Obrigado por 4k Views! Eu fiz isso para todos vocês!</p>
 <div align="center"><img src="./assets/banner.gif"></div>
 
